@@ -1,3 +1,3 @@
-OS Config and tweaks to improve the lacklustre default experience.
+OS Config to improve the lacklustre default experience.
 
-compiled over the years, because we forget. 
+Compiled over the years, because we forget. 
