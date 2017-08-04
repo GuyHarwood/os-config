@@ -1,4 +1,4 @@
-# OSX Config
+# OS Config
 
 ### Colorised Git Output
 ```sh
